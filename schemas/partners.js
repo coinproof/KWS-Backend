@@ -11,6 +11,11 @@ export default {
         hotspot: true,
       },
     },
+    {
+      name: 'link',
+      title: 'Link',
+      type: 'url',
+    },
   ],
 
   preview: {
